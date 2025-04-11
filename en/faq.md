@@ -14,7 +14,7 @@ old_id: 5
 -----------------------
 
 - **I get "Bancho authentication failed" (wrong password) when I try to log in, but my password is correct!**  
-- First, make sure you're connected to Akatsuki and that your password is corrected. If so, type your Akatsuki username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
+- First, make sure you're connected to Akatsuki and that your password is correct. If so, type your Akatsuki username and password, then press the **login** button with your mouse. I know, it's weird but it often works. *(make also sure that caps lock is disabled if your password is lowercase)*
 
 -----------------------
 
@@ -44,7 +44,7 @@ old_id: 5
 -----------------------
 
 - **Why is my computer flagging the Akatsuki Patcher as a potential threat?**
-- The Patcher is a program which injects itself to your game client and makes modifications to it, which isn't something your computer considers to be friendly. But don't worry! Our patcher doesn't byte. Just disable your antivirus and try redownloading or running it again, should work perfectly.
+- The Patcher is a program which injects itself to your game client and makes modifications to it, which isn't something your computer considers to be friendly. But don't worry! Our patcher doesn't bite. Just disable your antivirus and try redownloading or running it again, should work perfectly.
 
 -----------------------
 

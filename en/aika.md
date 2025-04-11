@@ -22,7 +22,7 @@ These are the commands supported by Aika, our chat bot.
 - `!faq status`  
 
 ### Tillerino-like commands
-Aika has some commands similar to Tillerino. Those commands work only if you send them to Aika through a PM. Remember that PP system has been implemented only on osu!standard and osu!mania. The bot doesn't support beatmaps recommendations at the moment, that functionality wil come later, hopefully.
+Aika has some commands similar to Tillerino. Those commands work only if you send them to Aika through a PM. Remember that PP system has been implemented only on osu!standard and osu!mania. The bot doesn't support beatmaps recommendations at the moment, that functionality will come later, hopefully.
 
 - `/np` - Show PP for the current playing song (only if is a osu! standard song)  
 - `!last` - Show info (and gained PP, if it was an osu! standard score) about the last submitted score  

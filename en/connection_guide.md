@@ -40,7 +40,7 @@ If you exclusively play on Akatsuki, you can replace `"$@"` with `-devserver aka
 
 ### If you're running `osu!.exe` through a bat file (`execute.bat`):
 - Open the **bat file** on a file editor.
-- Add `-devserver akatsuki.gg` to the same line as start `C:\osu!\osu!.exe`.
+- Add `-devserver akatsuki.gg` to the same line as `start C:\osu!\osu!.exe`.
 - Save changes then run it normally.
 - Enjoy playing osu! on Akatsuki!
 
